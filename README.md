@@ -31,9 +31,9 @@ To run the Country Guide App on your local machine, follow these steps:
 ## Credits
 [Rest Countries API](https://restcountries.com/): The API used to retrieve country data.
 
-##Preview Video
+## Preview 
 <p align ="center">
-      <img src="/assets/preview video/Country Guide.mp4" alt="preview video">
+      <img src="/assets/images/Country Guide.gif" alt="preview gif">
 </p> 
 
 <!-- LICENSE -->
