@@ -31,6 +31,11 @@ To run the Country Guide App on your local machine, follow these steps:
 ## Credits
 [Rest Countries API](https://restcountries.com/): The API used to retrieve country data.
 
+##Preview Video
+<p align ="center">
+      <img src="/assets/preview video/Country Guide.mp4" alt="preview video">
+</p> 
+
 <!-- LICENSE -->
 ## License
 This project is licensed under the MIT License. See the `LICENSE.txt` file for details.
